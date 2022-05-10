@@ -162,8 +162,9 @@ body.menu-expanded #navigation .logo path,
 }
 
 #home {
-  padding-top: calc(4.1rem + var(--nav-height));
+  
   padding-block: 0;
+  padding-top: calc(4.1rem + var(--nav-height));
 }
 
 #home p {
